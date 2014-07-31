@@ -1,0 +1,19 @@
+{
+  "name": "pasquale-md",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cirocosta/pasquale-md.git"
+  },
+  "author": "Ciro S. Costa <ciro9758@gmail.com> (http://www.cirocosta.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cirocosta/pasquale-md/issues"
+  },
+  "homepage": "https://github.com/cirocosta/pasquale-md",
+  "dependencies": {
+    "marked-wi": "^0.3.3"
+  }
+}
