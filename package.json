@@ -1,8 +1,8 @@
 {
   "name": "pasquale-md",
-  "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Searches for typos in markdown files with pasquale module",
+  "main": "src/pasquale-md.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/cirocosta/pasquale-md.git"
