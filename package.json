@@ -17,5 +17,8 @@
     "marked-wi": "0.3.6",
     "pasquale": "0.0.7",
     "q": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.3"
   }
 }
