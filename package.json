@@ -1,6 +1,6 @@
 {
   "name": "pasquale-md",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Searches for typos in markdown files with pasquale module",
   "main": "src/pasquale-md.js",
   "repository": {
@@ -11,6 +11,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cirocosta/pasquale-md/issues"
+  },
+  "scripts": {
+  	"test": "mocha test"
   },
   "homepage": "https://github.com/cirocosta/pasquale-md",
   "dependencies": {
